@@ -26,5 +26,5 @@ React Native, TypeScript and NativeBase boilerplate to build with Expo to set up
 ## Instructions for use
 
 1. This template was built in September 2017. Please check before using if the React Native Development has changed a lot.
-2. Check out the [React Native documenation] (https://facebook.github.io/react-native/) and [NativeBase documenation](https://docs.nativebase.io/) to understand and modify the default settings.
+2. Check out the [React Native documenation](https://facebook.github.io/react-native/) and [NativeBase documenation](https://docs.nativebase.io/) to understand and modify the default settings.
 3. Before you start coding, I recommend that you check the tslint settings and adjust them to your code style if necessary.
