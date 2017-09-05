@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "Example App",
+    "slug": "example",
+    "version": "1.0.0",
+    "sdkVersion": "20.0.0",
+    "packagerOpts": {
+      "config": "rn-cli.config.js"
+    },
+    "orientation": "portrait",
+    "primaryColor": "#252C35",
+    "icon": "public/image/app/icon/512.png",
+    "notification": {
+      "icon": "public/image/app/icon/48.png",
+      "color": "#F9880D",
+      "androidMode": "default"
+    },
+    "loading": {
+      "icon": "public/image/app/icon/512.png",
+      "backgroundColor": "#252C35",
+      "splash": {
+        "backgroundColor": "#252C35"
+      }
+    },
+    "androidStatusBarColor": "#252C35",
+    "scheme": "example",
+    "ios": {
+      "bundleIdentifier": "com.example.app",
+      "buildNumber": "1",
+      "icon": "public/image/app/icon/ios-512.png",
+      "isRemoteJSEnabled": true,
+      "supportsTablet": false,
+      "associatedDomains": []
+    },
+    "android": {
+      "package": "com.example.app",
+      "versionCode": 1,
+      "icon": "public/image/app/icon/512.png",
+      "permissions": []
+    }
+  }
+}

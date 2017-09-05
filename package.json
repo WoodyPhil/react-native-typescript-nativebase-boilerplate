@@ -1,0 +1,32 @@
+{
+  "name": "boilerplate",
+  "version": "1.0.0",
+  "privacy": "unlisted",
+  "main": "./node_modules/react-native-scripts/build/bin/crna-entry.js",
+  "scripts": {
+    "start": "react-native-scripts start",
+    "android": "react-native-scripts android",
+    "ios": "react-native-scripts ios",
+    "deploy": "exp publish",
+    "build-android": "exp build:android",
+    "build-ios": "exp build:ios",
+    "build-status": "exp build:status"
+  },
+  "dependencies": {
+    "color": "^2.0.0",
+    "expo": "^20.0.0",
+    "native-base": "^2.3.1",
+    "react": "16.0.0-beta.5",
+    "react-native": "0.48.0"
+  },
+  "devDependencies": {
+    "@types/color": "^2.0.0",
+    "@types/react": "^15.0.31",
+    "@types/react-native": "^0.44.12",
+    "@types/react-test-renderer": "^15.5.1",
+    "react-native-scripts": "1.3.1",
+    "react-native-typescript-transformer": "^1.0.11",
+    "tslint": "^5.5.0",
+    "typescript": "2.3.4"
+  }
+}
